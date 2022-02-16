@@ -1,6 +1,6 @@
 <script lang="ts">
   import { Link } from 'svelte-routing';
-  
+
   import { ROUTES } from '@constants/routes';
 </script>
 
